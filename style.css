@@ -8,6 +8,7 @@
     height: 100vh;
     width: 100%;
     background-image: url(/images/background.jpg.jpg);
+    background-size: cover;
 }
 nav {
     display: flex;
